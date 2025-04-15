@@ -3,7 +3,7 @@
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gurau.anil@gmail.com)
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ### Backend Development
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/.NET-purple?style=for-the-badge)
