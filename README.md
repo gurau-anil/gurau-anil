@@ -4,7 +4,6 @@
 
 
 ## 💻 Tech Stack:
-### Backend Development
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/.NET-purple?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/.NET%20Framework-blue?style=for-the-badge)
