@@ -1,8 +1,7 @@
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anil-gurau) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@anilgurau.com)
-[![Hashnode](https://img.shields.io/badge/Hashnode-%23007BFF.svg?logo=hashnode&logoColor=white)](https://anilgurau.hashnode.dev/)
-
+[![Static Badge](https://img.shields.io/badge/Website-blue?style=for-the-badge)](https://anilgurau.com)
+[![Static Badge](https://img.shields.io/badge/Blog-darkblue?style=for-the-badge)](https://blog.anilgurau.com)
+[![Static Badge](https://img.shields.io/badge/Email-red?style=for-the-badge)](mailto:contact@anilgurau.com)
+[![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://linkedin.com/in/anil-gurau)
 
 ## 💻 Tech Stack:
 
